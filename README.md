@@ -1,5 +1,5 @@
 # Book Management System
- I created this simple  Book Management System using Laveral to implement a simple CRUD Operation system.
+ I created this simple  Book Management System using Laravel to implement a simple CRUD Operation system.
  MySQL database as backend to manage the data records and VSCode. 
 
 
