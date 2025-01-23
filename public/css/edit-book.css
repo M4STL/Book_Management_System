@@ -1,0 +1,30 @@
+body {
+
+    background-image: url('/images/books.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh; 
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-border-wrapper{
+    width: 700px;
+    background-color: rgba(101, 158, 237,0.5);
+    border: 2px solid rgb(183, 179, 179);
+    border-radius: 5%;
+    margin: 10px;
+    padding: 30px 80px;
+}
+.title-header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.form-wrapper{
+    
+    margin: 10px;
+    padding: 50px 150px;
+}
